@@ -1,6 +1,6 @@
 Municipality Report and Requests Form
 
-This is a Windows Forms Application developed in C# (.NET Framework) that allows citizens to report issues to the municipality. Users can submit reports with details such as location, category, description, and optional file attachments. The system includes error checking, a progress bar for submission, and a structured layout for easy use.
+This is a Windows Forms Application developed in C# (.NET Framework) that allows citizens to report issues to the municipality. 
 -------------------------------------------------------------
  Requirements
 
